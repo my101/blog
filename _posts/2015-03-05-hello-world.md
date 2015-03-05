@@ -4,6 +4,6 @@ title: Hello Life
 published: true
 ---
 
-## Why another blog?
+## Why Another Blog?
 
 
