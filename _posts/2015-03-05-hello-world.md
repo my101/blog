@@ -1,11 +1,9 @@
 ---
+layout: post
+title: Hello Life
 published: true
 ---
 
----
-layout: post
-title: Hello Life
----
 ## Why another blog?
 
 
